@@ -1,2 +1,4 @@
 # hello-world
-Repository to earn my green square
+
+Hello fellow labrats. 
+I like tea, and looking for patterns in weird places. 
